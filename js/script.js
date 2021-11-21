@@ -41,3 +41,17 @@ function displayItems(items, container) {
 
 displayItems(items_array, "items");
 
+function addOrRemoveItemsFromCart(action) {
+    let container = '';
+
+    if (action == "add") {
+        container = getDiv("items");
+
+        takeAction(container)
+    }
+    else if (action == "remove") {
+        container = getDiv("cart");
+
+        takeAction(container)
+    };
+}
