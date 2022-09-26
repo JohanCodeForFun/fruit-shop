@@ -1,6 +1,6 @@
-# fruit-shop
+# Stephanies Fruit Shop
+[Live Website](https://jhellberg.com/portfolio/fruit-shop/index.html "Live Website")
 
-Link to website,
-https://jhellberg.com/portfolio/fruit-shop/index.html
+<img width="1440" alt="screenshot of package tracker app" src="https://jhellberg.com/images/git-fruitshop.jpg">
 
-Testing making changes to readme file using git workflow.
+Stephanies Fruit Shop is a fully mobile responsive online webshop complete with a shopping cart built with JavaScript.
